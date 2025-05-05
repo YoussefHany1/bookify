@@ -1,0 +1,19 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+nav a {
+  margin-right: 10px;
+}
+
+.basket-page, .confirmation-page {
+  max-width: 600px;
+  margin: auto;
+}
+
+.basket-item {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
